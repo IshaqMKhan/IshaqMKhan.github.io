@@ -9,7 +9,7 @@ redirect_from:
 
 I am a master's student in Information and Communication Engineering at Chosun University, South Korea. My research interests lie in deep learning, computer vision, and biomedical image analysis. I have worked on projects involving CNN-Transformer fusion models, attention mechanisms, and explainable AI for clinical imaging tasks. I primarily use PyTorch and have experience working with real-world healthcare datasets. My recent research focuses on multi-level feature fusion and vision transformer architectures for disease detection. I enjoy designing and training AI models that are not only accurate but also interpretable and practical. I am passionate about applying research to real-world problems and actively contribute to academic publications. I am currently looking for deep learning engineering roles where I can apply my skills to impactful projects
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -51,4 +51,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
