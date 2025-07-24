@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a master's student in Information and Communication Engineering at Chosun University, South Korea. My research interests lie in deep learning, computer vision, and biomedical image analysis. I have worked on projects involving CNN-Transformer fusion models, attention mechanisms, and explainable AI for clinical imaging tasks. I primarily use PyTorch and have experience working with real-world healthcare datasets. My recent research focuses on multi-level feature fusion and vision transformer architectures for disease detection. I enjoy designing and training AI models that are not only accurate but also interpretable and practical. I am passionate about applying research to real-world problems and actively contribute to academic publications. I am currently looking for deep learning engineering roles where I can apply my skills to impactful projects
 
 A data-driven personal website
 ======
