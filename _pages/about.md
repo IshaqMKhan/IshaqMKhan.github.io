@@ -7,7 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Information and Communication Engineering at Chosun University, South Korea. My research interests lie in deep learning, computer vision, and biomedical image analysis. I have worked on projects involving CNN-Transformer fusion models, attention mechanisms, and explainable AI for clinical imaging tasks. I primarily use PyTorch and have experience working with real-world healthcare datasets. My recent research focuses on multi-level feature fusion and vision transformer architectures for disease detection. I enjoy designing and training AI models that are not only accurate but also interpretable and practical. I am passionate about applying research to real-world problems and actively contribute to academic publications. I am currently looking for deep learning engineering roles where I can apply my skills to impactful projects
+I am a passionate deep learning and computer vision researcher with a strong interest in applying AI to real-world problems, particularly in healthcare. My work bridges core machine learning techniques and domain-specific challenges in medical imaging, where I develop and optimize deep learning models for tasks like disease detection and image-based diagnosis. I am driven by the potential of AI to improve decision-making, enhance diagnostic accuracy, and support impactful research across disciplines.
+
+Research Interests
+======
+-Medical Image Analysis
+-Deep Learning in Healthcare
+-Multi-scale Feature Learning
+-Hybrid Architectures (CNN + Transformer)
+-Contrastive Learning and Representation Learning
+-Synthetic Data and Generative Models for Medical Imaging
+-Explainable AI in Clinical Decision Support
+
+Technical Skills
+======
+
+- **Programming & ML Frameworks:** Python, PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Jupyter, CUDA  
+- **Deep Learning Architectures:** DenseNet169, ViT, ResNet50, FPN, EfficientNet, InceptionNet, ConvNeXt, MetaFormer, Faster RCNN  
+- **Libraries & Tools:** Huggingface, timm, Matplotlib, Pandas  
+- **Other Skills:** Data preprocessing, data visualization, manuscript writing, experimental benchmarking
+
 
 <!-- A data-driven personal website
 ======
