@@ -11,19 +11,19 @@ I am a passionate deep learning and computer vision researcher with a strong int
 
 Research Interests
 ======
-- Medical Image Analysis
-- Deep Learning in Healthcare
-- Multi-scale Feature Learning
-- Hybrid Architectures (CNN + Transformer)
-- Contrastive Learning and Representation Learning
-- Synthetic Data and Generative Models for Medical Imaging
-- Explainable AI in Clinical Decision Support
+- Computer Vision and Deep Learning  
+- Transformers and Large Language Models (LLMs)  
+- Representation Learning 
+- Medical Image Analysis and Disease Classification/Detection
+- Multi-scale Feature Extraction and Hybrid Architectures (CNN + Transformer)  
+- Synthetic Data Generation and Generative Models for Medical Imaging  
+- Explainable AI and Clinical Decision Support Systems
 
 Technical Skills
 ======
 
-- **Programming & ML Frameworks:** Python, PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Jupyter, CUDA  
-- **Deep Learning Architectures:** DenseNet169, ViT, ResNet50, FPN, EfficientNet, InceptionNet, ConvNeXt, MetaFormer, Faster RCNN  
+- **Programming & ML Frameworks:** Machine Learning, Deep Learning, Python, PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Jupyter, C++, CUDA, Linux
+- **Deep Learning Architectures:** DenseNet169, Vision Transformers, ResNet50, Feature Pyramid Networks, ConvNeXt, MetaFormer, EfficientNet, InceptionNet, Faster RCNN
 - **Libraries & Tools:** Huggingface, timm, Matplotlib, Pandas  
 - **Other Skills:** Data preprocessing, data visualization, manuscript writing, experimental benchmarking
 
