@@ -11,13 +11,13 @@ I am a passionate deep learning and computer vision researcher with a strong int
 
 Research Interests
 ======
--Medical Image Analysis
--Deep Learning in Healthcare
--Multi-scale Feature Learning
--Hybrid Architectures (CNN + Transformer)
--Contrastive Learning and Representation Learning
--Synthetic Data and Generative Models for Medical Imaging
--Explainable AI in Clinical Decision Support
+- Medical Image Analysis
+- Deep Learning in Healthcare
+- Multi-scale Feature Learning
+- Hybrid Architectures (CNN + Transformer)
+- Contrastive Learning and Representation Learning
+- Synthetic Data and Generative Models for Medical Imaging
+- Explainable AI in Clinical Decision Support
 
 Technical Skills
 ======
