@@ -9,6 +9,10 @@ redirect_from:
 
 I am a passionate deep learning and computer vision researcher with a strong interest in applying AI to real-world problems, particularly in healthcare. My work bridges core machine learning techniques and domain-specific challenges in medical imaging, where I develop and optimize deep learning models for tasks like disease detection and image-based diagnosis. I am driven by the potential of AI to improve decision-making, enhance diagnostic accuracy, and support impactful research across disciplines.
 
+## During my master's degree, i worked on
+- Disease classification using tranformers and CNNs
+- Hip fracture detection for clinical use with multi-scale learning
+
 Research Interests
 ======
 - Computer Vision and Deep Learning  
@@ -22,7 +26,7 @@ Research Interests
 Technical Skills
 ======
 
-- **Programming & ML Frameworks:** Machine Learning, Deep Learning, Python, PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Jupyter, C++, CUDA, Linux
+- **Programming & ML Frameworks:** Python, PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Jupyter, C++, CUDA, Linux
 - **Deep Learning Architectures:** DenseNet169, Vision Transformers, ResNet50, Feature Pyramid Networks, ConvNeXt, MetaFormer, EfficientNet, InceptionNet, Faster RCNN
 - **Libraries & Tools:** Huggingface, timm, Matplotlib, Pandas  
 - **Other Skills:** Data preprocessing, data visualization, manuscript writing, experimental benchmarking
