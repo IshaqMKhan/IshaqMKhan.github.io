@@ -20,8 +20,6 @@ Research Interests
 - Transformers and Large Language Models (LLMs)  
 - Representation Learning 
 - Medical Image Analysis and Disease Classification/Detection
-- Multi-scale Feature Extraction and Hybrid Architectures (CNN + Transformer)  
-- Synthetic Data Generation and Generative Models for Medical Imaging  
 - Explainable AI and Clinical Decision Support Systems
 
 Technical Skills
