@@ -1,12 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Multi-level Feature Enhancement and Dual AttentionbMechanisms for Improved Osteoporosis Diagnosis"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/2025-01-01-bone-net
+# excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining DenseNet169, Vision Transformer, and Attention Module for osteoporosis detection.'
+authors: "Routhu Srinivasa Rao, Ishaq Muhammad, and Bumshik Lee"
+status: ""
+venue: "Neurocomputing"
+date: 2025-01-01
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<p style="text-align: justify;">
+In this paper, we proposed a novel deep learning model for osteoporosis detection that integrates dual attention mechanisms with multi-level feature fusion. Using EfficientNetV2 as the backbone and feature pyramid networks for multi-scale feature extraction, our model effectively captures deep semantic information and focuses on critical regions in knee X-ray images. Ablation studies and comparisons with state-of-the-art methods demonstrate that our approach improves classification metrics and reduces false positives, providing a more accurate and reliable tool for osteoporosis diagnosis.
+ </p>
