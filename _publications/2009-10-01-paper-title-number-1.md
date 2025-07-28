@@ -7,7 +7,7 @@ excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining D
 authors: "Ishaq Muhammad et al."
 status: "Accepted with minor revision"
 venue: "PLOS ONE"
-date: 2025-04-01
+date: 2025-01-01
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
 
