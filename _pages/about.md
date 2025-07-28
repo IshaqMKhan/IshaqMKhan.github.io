@@ -19,7 +19,7 @@ Research Interests
 - Computer Vision and Deep Learning  
 - Transformers and Large Language Models (LLMs)  
 - Representation Learning 
-- Medical Image Analysis and Disease Classification/Detection
+- Medical Imaging
 - Explainable AI and Clinical Decision Support Systems
 
 Technical Skills
