@@ -43,30 +43,21 @@
       {% if post.authors %}
         <p style="margin-bottom: 0.2em;">{{ post.authors }}</p>
       {% endif %}
-      {% if post.status and post.venue %}
+      {% if post.status and post.venue and post.date %}
+        <p style="margin-bottom: 0.2em;">{{ post.status }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+      {% elsif post.status and post.venue %}
         <p style="margin-bottom: 0.2em;">{{ post.status }}, <i>{{ post.venue }}</i></p>
+      {% elsif post.venue and post.date %}
+        <p style="margin-bottom: 0.2em;"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% elsif post.venue %}
         <p style="margin-bottom: 0.2em;"><i>{{ post.venue }}</i></p>
       {% endif %}
-      {% if post.date %}
-        <p style="margin-bottom: 0.2em;"><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-      {% endif %}
-
     {% elsif post.date %}
       <p class="page__date" style="margin-bottom: 0.2em;">
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
       </p>
     {% endif %}
-
-    <!-- {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0.3em;">
-        {{ post.excerpt | markdownify | strip_html }}
-        {% if site.read_more == 'enabled' %}
-          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        {% endif %}
-      </p>
-    {% endif %} -->
 
     {% if post.doi %}
       <a href="{{ post.doi }}" target="_blank" class="btn" style="margin-top: 0.2em;">DOI</a>
