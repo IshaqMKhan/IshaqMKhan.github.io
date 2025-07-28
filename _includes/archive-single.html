@@ -55,6 +55,10 @@
     {% if post.doi %}
   <p><a href="{{ post.doi }}" target="_blank">DOI</a></p>
 {% endif %}
+{% if post.doi %}
+  <a href="{{ post.doi }}" target="_blank" rel="noopener noreferrer" class="btn btn--light-outline btn--small">DOI</a>
+{% endif %}
+
 
   </article>
 </div>
