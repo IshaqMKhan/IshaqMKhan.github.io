@@ -2,12 +2,12 @@
 title: "FracNet:A Dual-Path Deep Learning Framework for Multi-Scale Hip Fracture Classification from X-rays"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-02-dual-path-hip-fracture
+permalink: /publication/2025-01-03-dual-path-hip-fracture
 # excerpt: 'This study proposes a dual-path deep learning framework for multi-scale hip fracture classification. Manuscript currently in revision.'
 authors: 'Ishaq Muhammad, Seungwan Jo, and Bumshik Lee'
 status: "Under review"
 venue: "in Engineering Application of Aritificial Intelligence (EAAI)"
-date: 2025-01-01
+date: 2025-07-29
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
 
