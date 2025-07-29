@@ -1,5 +1,5 @@
 ---
-title: "FracNet: A Dual-Path Deep Learning Framework for Multi-Scale Hip Fracture Classification from X-rays"
+title: "FracNet:A Dual-Path Deep Learning Framework for Multi-Scale Hip Fracture Classification from X-rays"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-02-dual-path-hip-fracture
