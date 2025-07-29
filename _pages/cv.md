@@ -35,10 +35,14 @@ Work experience
 
 Skills
 ======
-* Computer Vision, Image Classification, Medical Imaging, Deep Learning
-* Python, Data Preprocessing, Data Visualization, Manuscript Writing
+* Computer Vision:
+  * Image Classification, Detection, Segmentation
+* Deep Learning:
+  * Transformers, CNNs, Diffusion Models, Multi-scale learning
 * Frameworks & Tools:
   * PyTorch, TensorFlow, Huggingface, Jupyter Notebook, scikit-learn, NumPy, OpenCV, timm, CUDA
+* Others:
+  * Data Preprocessing, Data Visualization, Explainable AI (Grad-Cam)
 
 Publications
 ======
