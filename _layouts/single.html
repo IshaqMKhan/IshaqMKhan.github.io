@@ -42,10 +42,8 @@ layout: default
             <p style="margin: 0 0 0.2em 0; font-size: 0.9rem;">{{ page.authors }}</p>
           {% endif %}
 
-          {% if page.status and page.venue and page.date %}
-            <p style="margin: 0; font-size: 0.9rem;">
-              <i>{{ page.status }} {{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
-            </p>
+          <p style="margin-bottom: 1em;"><i>{{ page.status }} {{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+          
           {% elsif page.venue and page.date %}
             <p style="margin: 0; font-size: 0.9rem;">
               <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
