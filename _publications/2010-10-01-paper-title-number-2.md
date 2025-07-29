@@ -1,16 +1,14 @@
 ---
-title: "Multi-level Feature Enhancement and Dual AttentionbMechanisms for Improved Osteoporosis Diagnosis"
+title: "FTAM-Net: A Feature Transformer with Adaptive Multi-Scale Refinement Network for Osteoarthritis Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-bone-net
-# excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining DenseNet169, Vision Transformer, and Attention Module for osteoporosis detection.'
-authors: "Routhu Srinivasa Rao, Ishaq Muhammad, and Bumshik Lee"
-status: ""
-venue: "Neurocomputing"
-date: 2025-01-01
-doi: "https://doi.org/10.1016/j.neucom.2025.131069"
+permalink: /publication/2025-01-03-ftam-net-osteoarthritis
+date: 2025-01-03
+venue: "Engineering Applications of Aritificial Intelligence (EAAI)"
+status: "Under review"
+authors: "Routhu Srinivasa, Ishaq Muhammad, and Bumshik Lee"
+doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
-
 <p style="text-align: justify;">
-In this paper, we proposed a novel deep learning model for osteoporosis detection that integrates dual attention mechanisms with multi-level feature fusion. Using EfficientNetV2 as the backbone and feature pyramid networks for multi-scale feature extraction, our model effectively captures deep semantic information and focuses on critical regions in knee X-ray images. Ablation studies and comparisons with state-of-the-art methods demonstrate that our approach improves classification metrics and reduces false positives, providing a more accurate and reliable tool for osteoporosis diagnosis.
+This study introduces a novel deep learning framework for osteoarthritis (OA) severity classification using radiographic images. The proposed model integrates EfficientNetV2 for high-resolution feature extraction, Residual Transformer Blocks (RTBs) to capture both local and global relationships, and a Feature Adaptation Module (FAM) for improved multi-scale representation. Additionally, an Adaptive Channel Reduction (ACR) module is employed to refine feature selection and minimize noise. The framework was evaluated on the publicly available Osteoarthritis Initiative (OAI) dataset, demonstrating enhanced performance over existing deep learning models and showing strong potential as a reliable tool for clinical decision support in OA diagnosis and treatment planning.
  </p>
