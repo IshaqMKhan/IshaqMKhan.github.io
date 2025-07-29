@@ -3,9 +3,12 @@
 <div class="talk__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 class="archive__item-title" itemprop="headline">
-      <strong>{{ post.title }}</strong>
+      {{ post.title }}
     </h2>
-    <p class="archive__item-meta">
+    {% if post.presentation_type %}
+      <p style="margin: 0; font-style: italic; font-size: 0.9rem;">{{ post.presentation_type }}</p>
+    {% endif %}
+    <p style="margin: 0.2rem 0 0 0;">
       {{ post.venue }}, {{ post.location }}
     </p>
   </article>
