@@ -35,7 +35,12 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}
-            <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+            <h1 class="page__title" itemprop="headline" style="display: flex; align-items: center; flex-wrap: wrap;">
+              {{ page.title }}
+              {% if page.doi %}
+                <a href="{{ page.doi }}" target="_blank" class="btn" style="margin-left: 0.75rem; font-size: 0.75rem;">DOI</a>
+              {% endif %}
+            </h1>
           {% endif %}
 
           {% if page.authors %}
