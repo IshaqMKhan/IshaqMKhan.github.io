@@ -7,7 +7,7 @@ permalink: /publication/2025-01-04-bone-net
 authors: "Routhu Srinivasa Rao, Ishaq Muhammad, and Bumshik Lee"
 status: ""
 venue: "Neurocomputing"
-date: 2025-01-01
+date: 2025-01-04
 doi: "https://doi.org/10.1016/j.neucom.2025.131069"
 ---
 
