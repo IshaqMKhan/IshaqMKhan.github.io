@@ -6,7 +6,7 @@ permalink: /publication/2025-01-01-bone-net
 # excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining DenseNet169, Vision Transformer, and Attention Module for osteoporosis detection.'
 authors: "Ishaq Muhammad, Routhu Srinivasa Rao, and Bumshik Lee"
 status: "Accepted with minor revision"
-venue: "PlosOne"
+venue: "in PlosOne"
 date: 2025-01-01
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
