@@ -2,7 +2,7 @@
 title: "FTAM-Net: A Feature Transformer with Adaptive Multi-Scale Refinement Network for Osteoarthritis Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-ftam-net-osteoarthritis
+permalink: /publication/2025-01-02-ftam-net-osteoarthritis
 date: 2025-01-01
 venue: "Engineering Applications of Aritificial Intelligence (EAAI)"
 status: "Under review"
