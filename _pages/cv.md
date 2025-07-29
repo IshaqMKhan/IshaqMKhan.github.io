@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae | Ishaq Muhammad"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,16 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <h1 style="margin: 0;">CV</h1>
-  <a href="{{ '/assets/files/cv.pdf' | relative_url }}" download
+  <a href="{{ '/files/cv.pdf' | relative_url }}" download
      style="text-decoration: none; padding: 0.4em 0.8em; background-color: #007acc; color: white; border-radius: 4px;">
-    Download PDF
+    CV.pdf
   </a>
 </div>
 
 Education
 ======
 * M.S. in Information and Communication Engineering, Chosun University, Gwangju, South Korea, 2025  
-  * Thesis: *A Study on A Dual-Path Deep Learning Framework for Multi-Scale Hip Fracture Classification from X-rays*  
-  * Final Grade: 4.19/4.50
-
-* B.S. in Computer Science, University of Peshawar, Peshawar, Pakistan, 2022  
-  * Thesis: *Training Agents with Deep Reinforcement Learning using Game AI 3D Environments*  
-  * CGPA: 3.94/4.0 (Distinction)
+* B.S. in Computer Science, University of Peshawar, Peshawar, Pakistan, 2022
 
 Work experience
 ======
@@ -35,7 +30,7 @@ Work experience
 
 * Feb 2023 – Aug 2023: Research Assistant  
   * University of Peshawar, Pakistan  
-  * Projects in Wireless Sensor Networks, anomaly detection, and machine learning for missing data imputation.
+  * Wireless Sensor Networks, anomaly detection, and machine learning for missing data imputation.
 
 * Jun 2022 – Feb 2023: Machine Learning Intern  
   * REBLUE Software Company, Peshawar, Pakistan  
