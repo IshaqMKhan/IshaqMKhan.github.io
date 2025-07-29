@@ -11,53 +11,49 @@ redirect_from:
 
 Education
 ======
-* M.S. in Information and Communication Engineering, Chosun University, Gwangju, South Korea, 2025
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information and Communication Engineering, Chosun University, Gwangju, South Korea, 2025  
+  * Thesis: *A Study on A Dual-Path Deep Learning Framework for Multi-Scale Hip Fracture Classification from X-rays*  
+  * Final Grade: 4.19/4.50
+
+* B.S. in Computer Science, University of Peshawar, Peshawar, Pakistan, 2022  
+  * Thesis: *Training Agents with Deep Reinforcement Learning using Game AI 3D Environments*  
+  * CGPA: 3.94/4.0 (Distinction)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 – 2025: Research Assistant  
+  * Chosun University, Gwangju, South Korea  
+  * Worked on medical image classification and detection using deep learning (Transformers, CNNs), manuscript writing, benchmarking, and collaborative research.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2023 – Aug 2023: Research Assistant  
+  * University of Peshawar, Pakistan  
+  * Projects in Wireless Sensor Networks, anomaly detection, and machine learning for missing data imputation.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jun 2022 – Feb 2023: Machine Learning Intern  
+  * REBLUE Software Company, Peshawar, Pakistan  
+  * Developed image classification models, data preprocessing pipelines, and contributed to breast cancer detection systems using Python, scikit-learn, and NumPy.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision | Image Classification | Medical Imaging | Deep Learning | Machine Learning
+* Python | Data Preprocessing | Data Visualization | Manuscript Writing
+* Frameworks & Tools:
+  * PyTorch, TensorFlow, Huggingface, Jupyter, scikit-learn, NumPy, OpenCV, timm, CUDA
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Conference Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Best Paper Award, IEIE 34th AI Conference, Seoul, South Korea
+* Distinction holder in B.S
+* Certificate of Excellence – Inter-Semester AI Quiz Competition
