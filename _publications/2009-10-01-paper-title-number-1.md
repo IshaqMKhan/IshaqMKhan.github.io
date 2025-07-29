@@ -2,7 +2,7 @@
 title: "BONE-Net: A Novel Hybrid Deep Learning Model for Effective Osteoporosis Detection"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-02-bone-net
+permalink: /publication/2025-01-01-bone-net
 # excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining DenseNet169, Vision Transformer, and Attention Module for osteoporosis detection.'
 authors: "Ishaq Muhammad, Routhu Srinivasa Rao, and Bumshik Lee"
 status: "Accepted with minor revision"
