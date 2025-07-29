@@ -2,7 +2,7 @@
 title: "Multi-level Feature Enhancement and Dual AttentionbMechanisms for Improved Osteoporosis Diagnosis"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-bone-net
+permalink: /publication/2025-01-04-bone-net
 # excerpt: 'This paper presents BONE-Net, a hybrid deep-learning model combining DenseNet169, Vision Transformer, and Attention Module for osteoporosis detection.'
 authors: "Routhu Srinivasa Rao, Ishaq Muhammad, and Bumshik Lee"
 status: ""
