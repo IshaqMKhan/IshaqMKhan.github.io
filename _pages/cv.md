@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae | Ishaq Muhammad"
+#title: "Curriculum Vitae | Ishaq Muhammad"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-  <h1 style="margin: 0;">CV</h1>
+  <h1 style="margin: 0;">Curriculum Vitae | Ishaq Muhammad</h1>
   <a href="{{ '/files/cv.pdf' | relative_url }}" download
      style="text-decoration: none; padding: 0.4em 0.8em; background-color: #007acc; color: white; border-radius: 4px;">
     CV.pdf
