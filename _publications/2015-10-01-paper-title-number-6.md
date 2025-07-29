@@ -6,7 +6,7 @@ permalink: /publication/2025-01-03-ftam-net-osteoarthritis
 date: 2025-01-03
 venue: 'Engineering Applications of Aritificial Intelligence (EAAI)'
 status: 'Under review'
-authors: 'Routhu Srinivasa and Ishaq Muhammad, Bumshik Lee'
+authors: 'Routhu Srinivasa, Ishaq Muhammad, and Bumshik Lee'
 doi: 'https://doi.org/10.xxxx/xxxxxx'
 ---
 <p style="text-align: justify;">
