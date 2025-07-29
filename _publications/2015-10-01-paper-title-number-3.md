@@ -7,7 +7,7 @@ permalink: /publication/2025-01-03-dual-path-hip-fracture
 authors: 'Ishaq Muhammad, Seungwan Jo, and Bumshik Lee'
 status: "Under review"
 venue: "in Engineering Application of Aritificial Intelligence (EAAI)"
-date: 2025-07-29
+date: 2025-01-03
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
 
