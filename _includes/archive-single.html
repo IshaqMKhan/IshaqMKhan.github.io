@@ -12,8 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 1.2em;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0.5em;">
+<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 0.6em;">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0.3em;">
 
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser" style="margin-bottom: 0.3em;">
@@ -41,13 +41,13 @@
 
     {% elsif post.collection == 'publications' %}
       {% if post.authors %}
-        <p style="margin-bottom: 0.1em;">{{ post.authors }}</p>
+        <p style="margin: 0 0 0.1em 0;">{{ post.authors }}</p>
       {% endif %}
 
       {% if post.status and post.venue and post.date %}
-        <p style="margin-top: 0; margin-bottom: 0.6em;"><i>{{ post.status }} {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+        <p style="margin: 0 0 0.3em 0;"><i>{{ post.status }} {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% elsif post.status and post.venue %}
-        <p style="margin-bottom: 0.2em;"><i>{{ post.status }} {{ post.venue }}</i></p>
+        <p style="margin: 0 0 0.3em 0;"><i>{{ post.status }} {{ post.venue }}</i></p>
       {% endif %}
 
     {% elsif post.date %}
