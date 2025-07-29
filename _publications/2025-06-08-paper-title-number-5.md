@@ -1,7 +1,7 @@
 ---
 title: "A Hybrid Attention-Driven Deep Learning Model for Osteoporosis Detection in Knees"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-02-18-hybrid-attention-osteoporosis
 date: 2025-02-18
 venue: '2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
