@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <h1 style="margin: 0;">CV</h1>
+  <a href="{{ '/assets/files/cv.pdf' | relative_url }}" download
+     style="text-decoration: none; padding: 0.4em 0.8em; background-color: #007acc; color: white; border-radius: 4px;">
+    Download PDF
+  </a>
+</div>
+
 Education
 ======
 * M.S. in Information and Communication Engineering, Chosun University, Gwangju, South Korea, 2025  
