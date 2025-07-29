@@ -7,7 +7,7 @@ permalink: /publication/2025-01-01-bone-net
 authors: "Ishaq Muhammad, Routhu Srinivasa Rao, and Bumshik Lee"
 status: "Accepted with minor revision"
 venue: "PlosOne"
-date: 2025-01-02
+date: 2025-01-01
 doi: "https://doi.org/10.xxxx/xxxxxx"
 ---
 
