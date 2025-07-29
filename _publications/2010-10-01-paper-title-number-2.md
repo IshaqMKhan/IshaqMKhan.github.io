@@ -8,7 +8,7 @@ authors: "Routhu Srinivasa Rao, Ishaq Muhammad, and Bumshik Lee"
 status: ""
 venue: "Neurocomputing"
 date: 2025-01-01
-doi: "https://doi.org/10.xxxx/xxxxxx"
+doi: "https://doi.org/10.1016/j.neucom.2025.131069"
 ---
 
 <p style="text-align: justify;">
