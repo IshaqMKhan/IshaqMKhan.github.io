@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2025-02-18-hybrid-attention-osteoporosis
 date: 2025-02-18
-venue: '2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-status: 'Published'
+venue: 'The 7th International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Fukuoka, Japan'
+status: ''
 authors: 'Ishaq Muhammad and Bumshik Lee'
 doi: 'https://doi.org/10.1109/ICAIIC64266.2025.10920829'
 ---
