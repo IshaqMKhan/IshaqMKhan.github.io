@@ -3,7 +3,7 @@ title: "FTAM-Net: A Feature Transformer with Adaptive Multi-Scale Refinement Net
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-ftam-net-osteoarthritis
-date: 2025-01-03
+date: 2025-01-01
 venue: "Engineering Applications of Aritificial Intelligence (EAAI)"
 status: "Under review"
 authors: "Routhu Srinivasa, Ishaq Muhammad, and Bumshik Lee"
