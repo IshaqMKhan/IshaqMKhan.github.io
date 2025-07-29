@@ -12,8 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 0.6em;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0.3em;">
+<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 0.3em;">  <!-- less bottom margin -->
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0.15em;">  <!-- less bottom margin -->
 
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser" style="margin-bottom: 0.3em;">
@@ -37,21 +37,21 @@
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p style="margin-bottom: 0.2em;">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p style="margin-bottom: 0.2em; font-size: 0.85rem;">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
 
     {% elsif post.collection == 'publications' %}
       {% if post.authors %}
-        <p style="margin: 0 0 0.1em 0;">{{ post.authors }}</p>
+        <p style="margin: 0 0 0.1em 0; font-size: 0.85rem;">{{ post.authors }}</p>  <!-- slightly smaller font -->
       {% endif %}
 
       {% if post.status and post.venue and post.date %}
-        <p style="margin: 0 0 0.3em 0;"><i>{{ post.status }} {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+        <p style="margin: 0 0 0.3em 0; font-size: 0.85rem;"><i>{{ post.status }} {{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% elsif post.status and post.venue %}
-        <p style="margin: 0 0 0.3em 0;"><i>{{ post.status }} {{ post.venue }}</i></p>
+        <p style="margin: 0 0 0.3em 0; font-size: 0.85rem;"><i>{{ post.status }} {{ post.venue }}</i></p>
       {% endif %}
 
     {% elsif post.date %}
-      <p class="page__date" style="margin-bottom: 0.2em;">
+      <p class="page__date" style="margin-bottom: 0.2em; font-size: 0.85rem;">
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
       </p>
