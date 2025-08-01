@@ -62,6 +62,6 @@ Conference Presentations
 Awards
 ======
 * Best Paper Award, IEIE 34th AI Conference, Seoul, South Korea
-* Foreign Excellence Scholarship, Chosun University, Gwagnju
+* Foreign Excellence Scholarship, Chosun University, Gwangju
 * Distinction holder in B.S, University of Peshawar, Pakistan
 * Certificate of Excellence – Inter-Semester AI Quiz Competition, University of Peshawar, Pakistan
