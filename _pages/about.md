@@ -27,6 +27,6 @@ Technical Skills
 ======
 
 - **Programming:** Python, C++
-- **ML Frameworks & Tools:** PyTorch, TensorFlow, Keras, Huggingface, timm, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook
+- **ML Frameworks & Tools:** PyTorch, TensorFlow, Keras, Huggingface, timm, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook, CUDA, Git
 - **Deep Learning and Computer Vision:** Transformers, CNNs, Diffusion models, Image Classification, Segmentation, Detection
 - **Other Skills:** Explainable AI (Grad-CAM), Data preprocessing, Data visualization, Experimental benchmarking, Scientific writing
