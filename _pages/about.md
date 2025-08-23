@@ -26,7 +26,7 @@ Research Interests
 Technical Skills
 ======
 
-- **Programming & ML Frameworks:** Python, C++
-- **Frameworks & Tools:** PyTorch, TensorFlow, Keras, Huggingface, timm, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook
+- **Programming:** Python, C++
+- **ML Frameworks & Tools:** PyTorch, TensorFlow, Keras, Huggingface, timm, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook
 - **Deep Learning and Computer Vision:** Transformers, CNNs, Diffusion models, Image Classification, Segmentation, Detection
 - **Other Skills:** Explainable AI (Grad-CAM), Data preprocessing, Data visualization, Experimental benchmarking, Scientific writing
