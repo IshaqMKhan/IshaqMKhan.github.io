@@ -14,3 +14,9 @@ doi: "https://doi.org/10.xxxx/xxxxxx"
 <p style="text-align: justify;">
 In this study, we present a deep learning framework for multi-class classification of hip fractures using plain radiographic images. The proposed architecture integrates a ResNet50 backbone with a Feature Pyramid Network to extract multi-scale features, and introduces a dual-path block that combines convolutional and transformer-based mechanisms to capture both local and global information. A multilevel fusion module is used to refine and integrate features from different stages. The model was trained and evaluated on a clinically annotated dataset from Chosun University Hospital, demonstrating superior performance over several state-of-the-art baselines.
  </p>
+<a href="https://doi.org/10.xxxx/xxxxxx"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="background-color:#4dafff; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; display:inline-block;">
+   View Publication
+</a>
