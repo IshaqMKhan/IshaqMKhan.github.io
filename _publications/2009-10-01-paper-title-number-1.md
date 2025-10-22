@@ -12,5 +12,10 @@ doi: "https://doi.org/10.1371/journal.pone.0334664"
 ---
 
 <p style="text-align: justify;">
- In this, we developed an advanced deep-learning model for osteoporosis detection using knee X-ray images. The method combines features from DenseNet169, Vision Transformer, and a custom Attention Model to capture detailed spatial and channel information. These fused features are classified by a fully connected network to distinguish osteoporotic from normal cases. Our model achieved superior accuracy (0.8611), specificity (0.9474), and precision (0.9286) compared to existing methods, demonstrating strong potential for early diagnosis and improved clinical intervention.
+This paper presents an advanced deep-learning model for osteoporosis detection using knee X-ray images. The method combines features from DenseNet169, Vision Transformer, and a custom Attention Model to capture detailed spatial and channel information. These fused features are classified by a fully connected network to distinguish osteoporotic from normal cases. Our model achieved superior accuracy (0.8611), specificity (0.9474), and precision (0.9286) compared to existing methods, demonstrating strong potential for early diagnosis and improved clinical intervention.
  </p>
+ <p style="margin-top: 10px;">
+  <a class="btn btn-primary" href="https://doi.org/10.1371/journal.pone.0334664" target="_blank" rel="noopener noreferrer">
+    View DOI
+  </a>
+</p>
