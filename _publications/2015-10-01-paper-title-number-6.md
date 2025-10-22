@@ -14,3 +14,9 @@ doi: "https://doi.org/10.1016/j.neucom.2025.131069"
 <p style="text-align: justify;">
 In this paper, we proposed a novel deep learning model for osteoporosis detection that integrates dual attention mechanisms with multi-level feature fusion. Using EfficientNetV2 as the backbone and feature pyramid networks for multi-scale feature extraction, our model effectively captures deep semantic information and focuses on critical regions in knee X-ray images. Ablation studies and comparisons with state-of-the-art methods demonstrate that our approach improves classification metrics and reduces false positives, providing a more accurate and reliable tool for osteoporosis diagnosis.
  </p>
+<a href="https://doi.org/10.1016/j.neucom.2025.131069"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="background-color:#4dafff; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; display:inline-block;">
+   View Publication
+</a>
