@@ -10,7 +10,7 @@ authors: 'Ishaq Muhammad and Bumshik Lee'
 doi: 'https://doi.org/10.1109/ICAIIC64266.2025.10920829'
 ---
 <p style="text-align: justify;"> In this work, we propose a hybrid deep learning model that combines DenseNet169 with a custom attention module for accurate osteoporosis detection using knee radiographs. The fused features are classified through a fully connected network, achieving strong performance and outperforming state-of-the-art methods. </p>
-<a href="https://doi.org/10.1109/ICAIIC64266.2025.1092082"
+<a href="https://doi.org/10.1109/ICAIIC64266.2025.10920829"
    target="_blank"
    rel="noopener noreferrer"
    style="background-color:#4dafff; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; display:inline-block;">
