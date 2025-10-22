@@ -12,3 +12,9 @@ doi: "https://doi.org/10.xxxx/xxxxxx"
 <p style="text-align: justify;">
 This study introduces a novel deep learning framework for osteoarthritis (OA) severity classification using radiographic images. The proposed model integrates EfficientNetV2 for high-resolution feature extraction, Residual Transformer Blocks (RTBs) to capture both local and global relationships, and a Feature Adaptation Module (FAM) for improved multi-scale representation. Additionally, an Adaptive Channel Reduction (ACR) module is employed to refine feature selection and minimize noise. The framework was evaluated on the publicly available Osteoarthritis Initiative (OAI) dataset, demonstrating enhanced performance over existing deep learning models and showing strong potential as a reliable tool for clinical decision support in OA diagnosis and treatment planning.
  </p>
+<a href="https://doi.org/10.xxxx/xxxxxx"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="background-color:#4dafff; color:white; padding:8px 16px; border-radius:6px; text-decoration:none; display:inline-block;">
+   View Publication
+</a>
