@@ -7,7 +7,7 @@ permalink: /publication/2025-01-05-bone-net
 authors: "Ishaq Muhammad, Routhu Srinivasa Rao, and Bumshik Lee"
 status: ""
 venue: "PlosOne"
-date: 2025-01-01
+date: 2025-01-05
 doi: "https://doi.org/10.1371/journal.pone.0334664"
 ---
 
