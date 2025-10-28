@@ -13,7 +13,7 @@ redirect_from:
   <h1 style="margin: 0;">Curriculum Vitae | Ishaq Muhammad</h1>
   <a href="{{ '/files/Ishaq_M_CV.pdf' | relative_url }}" download
      style="text-decoration: none; padding: 0.4em 0.8em; background-color: #007acc; color: white; border-radius: 4px;">
-    CV.pdf
+    Download CV.pdf
   </a>
 </div>
 
